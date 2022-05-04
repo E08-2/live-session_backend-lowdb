@@ -2,7 +2,7 @@ Lowdb explainer:
 
 *One sentence summary*:
 
-- You can use lowdb in your server to read data from, and write data to, the db.json file, which lives in the "data" directory of your "backend" repo.
+- You can use lowdb in your server to read data from, and write data to, the "db.json" file, which lives in the "data" directory of your "backend" repo.
 
 *More details*:
 
