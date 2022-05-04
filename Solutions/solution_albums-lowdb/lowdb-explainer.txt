@@ -1,4 +1,4 @@
-LowDB explainer:
+Lowdb explainer:
 
 *One sentence summary*:
 
